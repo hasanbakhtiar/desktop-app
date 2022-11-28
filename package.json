@@ -1,0 +1,16 @@
+{
+  "name": "desktop-app",
+  "version": "1.0.0",
+  "description": "desktop-app this app with electron js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanbakhtiar/desktop-app.git"
+  },
+  "devDependencies": {
+    "electron": "^21.3.1"
+  }
+}
